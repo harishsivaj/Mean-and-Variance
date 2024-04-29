@@ -1,7 +1,6 @@
-# EXPERIMENT :
-# DATE :
+# EXPERIMENT : Mean and variance of a discrete  distribution
 
-#  Mean and variance of a discrete  distribution
+# DATE :
 
 
 # Aim : 
